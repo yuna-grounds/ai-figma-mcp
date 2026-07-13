@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "TalkToFigma": {
+      "command": "C:\\Users\\User\\.bun\\bin\\bunx.exe",
+      "args": [
+        "cursor-talk-to-figma-mcp@latest"
+      ]
+    }
+  }
+}
